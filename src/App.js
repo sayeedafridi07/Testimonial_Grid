@@ -15,7 +15,7 @@ function App() {
               alt=""
               className="absolute top-3 right-10 scale-125 md:top-7 md:right-24 md:scale-150"
             />
-            {/* Box Header */}
+            {/* Box Header*/}
             <div className="flex z-10 space-x-4">
               <img
                 src={require("../src/assets/images/image-daniel.jpg")}
